@@ -1,2 +1,3 @@
-# YaonanDeng_8852616
-Lab 3
+Name: Yaonan Deng
+Project Title: Lab 3
+Student ID: 8852616
